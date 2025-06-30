@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+.text-glow-white {
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(2px);
+}
+.text-glow-black {
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(2px);
+}
+.shadow-all-sides-black {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(2px);
+}
+.shadow-all-sides-white {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(2px);
+}
