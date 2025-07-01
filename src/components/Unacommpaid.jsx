@@ -12,7 +12,7 @@ const Unacommpaid = () => {
       pt-[170px]
       px-[100px]"
     >
-      <img className="p-5" src="./src/assets/Subtract.png" alt="" />
+      <img className="p-5" src="assets/Subtract.png" alt="" />
 
       <div className="absolute
           text-center top-[200px] left-[160px] z-50
