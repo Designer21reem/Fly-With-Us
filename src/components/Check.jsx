@@ -364,7 +364,7 @@ const Check = () => {
                    {/* images */}
                    <div className='
                    mt-20'>
-                     <img src="./src/assets/airplain.png" alt="" />
+                     <img src="assets/airplain.png" alt="" />
                      
                    </div>
 

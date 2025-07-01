@@ -96,7 +96,7 @@ const Unacommpaid = () => {
         animate={inView ? { opacity: 1, scale: 1 } : undefined}
         transition={{ duration: 1, delay: 0.9, type: "spring", stiffness: 100, damping: 20 }}
         className="absolute top-[188px] left-[715px] w-[680px]"
-        src="./src/assets/E2.png"
+        src="assets/E2.png"
         alt=""
       />
       <motion.img
@@ -104,7 +104,7 @@ const Unacommpaid = () => {
         animate={inView ? { opacity: 1, scale: 1 } : undefined}
         transition={{ duration: 1, delay: 0.9, type: "spring", stiffness: 100, damping: 20 }}
         className="absolute top-[470px] left-[130px] w-[512px]"
-        src="./src/assets/E1.png"
+        src="assets/E1.png"
         alt=""
       />
     </section>

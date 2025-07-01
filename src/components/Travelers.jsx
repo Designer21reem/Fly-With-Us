@@ -53,7 +53,7 @@ const Travelers = () => {
           <div className="flex flex-col items-center relative">
             <img
               className="w-[319px] h-[448px] rounded-[120px] object-cover"
-              src="./src/assets/p4.jpg"
+              src="assets/p4.jpg"
               alt=""
             />
             <div className="relative w-[319px] h-[124px]">
@@ -85,7 +85,7 @@ const Travelers = () => {
               </svg>
               <img
                 className="w-[63px] h-[63px] absolute bottom-[208px] left-[128px]"
-                src="./src/assets/pe1.png"
+                src="assets/pe1.png"
                 alt=""
               />
             </div>
@@ -112,7 +112,7 @@ const Travelers = () => {
           <div className="flex flex-col items-center relative">
             <img
               className="w-[319px] h-[448px] rounded-[120px] object-cover"
-              src="./src/assets/p1.jpg"
+              src="assets/p1.jpg"
               alt=""
             />
             <div className="relative w-[319px] h-[124px]">
@@ -144,7 +144,7 @@ const Travelers = () => {
               </svg>
               <img
                 className="w-[63px] h-[63px] absolute bottom-[208px] left-[128px]"
-                src="./src/assets/pe2.png"
+                src="assets/pe2.png"
                 alt=""
               />
             </div>
@@ -171,7 +171,7 @@ const Travelers = () => {
           <div className="flex flex-col items-center relative">
             <img
               className="w-[319px] h-[448px] rounded-[120px] object-cover"
-              src="./src/assets/p3.avif"
+              src="assets/p3.avif"
               alt=""
             />
             <div className="relative w-[319px] h-[124px]">
@@ -203,7 +203,7 @@ const Travelers = () => {
               </svg>
               <img
                 className="w-[63px] h-[63px] absolute bottom-[208px] left-[128px]"
-                src="./src/assets/pe3.png"
+                src="assets/pe3.png"
                 alt=""
               />
             </div>

@@ -21,7 +21,7 @@ const Hero = () => {
 
                 </div>
                 <img className='w-[1000px] h-[600px]
-                object-cover absolute top-[200px]' src="./src/assets/sky.png" alt="sky" />
+                object-cover absolute top-[200px]' src="assets/sky.png" alt="sky" />
 
                 <div className=' absolute top-[200px] left-0
                  z-50'>
